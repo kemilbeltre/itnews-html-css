@@ -1,4 +1,4 @@
-# itnews-html-css
+# IT News HTML
 ![](./img/screenshot.png)
 
 
