@@ -1,5 +1,5 @@
 # itnews-html-css
-![](.img/screenshot.png)
+![](./img/screenshot.png)
 
 
 
